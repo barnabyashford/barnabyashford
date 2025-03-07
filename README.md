@@ -10,7 +10,7 @@ I'm a student majoring in **Language and Information Technology** at the Faculty
 - **NLP & ML Libraries**: PyTorch, Scikit-learn, Gensim, Transformers, Llama-index
 
 ## 🔭 Current Projects
-I'm currently working on my second (and likely final) senior project as an undergraduate student at Chulalongkorn University. This project focuses on development of a voice-based chatbot application.
+I'm currently working on my second (and likely final) senior project as an undergraduate student at Chulalongkorn University. This project focuses on development of a voice-based chatbot application. You can visit [this repository](https://github.com/barnabyashford/thai-voice-bot) for more detail!
 
 ## 👯 Collaboration
 I'm always open to collaborating on interesting projects! While I don't currently have any open collaboration opportunities on my own projects, I'm excited to contribute to others' initiatives.
