@@ -33,7 +33,3 @@ Currently expanding my knowledge in Thai-centric NLP.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=barnabyashford&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barnabyashford&layout=compact&theme=radical)
-
----
-
-⭐️ From [Your GitHub Username](https://github.com/barnabyashford)
