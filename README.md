@@ -3,7 +3,7 @@
 Call me Worrapat, Sunny, Barney, Akira, or whatever you wish. I go by many names!.
 
 ## About Me
-I'm a student majoring in $\text{Language and Information Technology}$ at the Faculty of Arts, Chulalongkorn University. I'm passionate about natural language processing, machine learning, and their applications.
+I'm a student majoring in <mark> ✨ $Language \  and \  Information \  Technology$ ✨ </mark> at the Faculty of Arts, Chulalongkorn University. I'm passionate about natural language processing, machine learning, and their applications.
 
 ## 🛠️ Skills & Expertise
 - **Programming Languages**: Python
