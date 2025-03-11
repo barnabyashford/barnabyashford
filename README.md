@@ -1,6 +1,6 @@
 # Welcome to my GitHub account! 👋
 
-Call me Worrapat, Sunny, Barney, Akira, or whatever you wish. I go by many names!.
+Call me Worrapat, Sunny, Barney, <ruby>輝<rt>あきら</rt></ruby>, or whatever you wish. I go by many names!.
 
 ## About Me
 I'm a student majoring <mark> ✨ $Language \  and \  Information \  Technology$ ✨ </mark> at the Faculty of Arts, Chulalongkorn University. I'm passionate about natural language processing, machine learning, and their applications.
@@ -23,7 +23,7 @@ Currently expanding my knowledge in Thai-centric NLP.
 ## 📫 How to Reach Me
 - **Email**: zhangterfuu@outlook.com
 - **University Email**: 6440226022@student.chula.ac.th
-- **LinkedIn**: [Your LinkedIn profile link]
+- **LinkedIn**: [(https://www.linkedin.com/in/worrapat-cheng/)](https://www.linkedin.com/in/worrapat-cheng/)
 - **Line**: zhangterfuu
 
 ## ⚡ Hobbies & Interests
