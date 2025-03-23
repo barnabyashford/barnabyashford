@@ -7,10 +7,10 @@ I'm a student majoring <mark> ✨ $Language \  and \  Information \  Technology$
 
 ## 🛠️ Skills & Expertise
 - **Programming Languages**: Python
-- **NLP & ML Libraries**: PyTorch, Scikit-learn, Gensim, Transformers, Llama-index
+- **NLP & ML Libraries**: Gensim, Llama-index, PyTorch, Scikit-learn, Transformers, Unsloth
 
 ## 🔭 Current Projects
-I'm currently working on my second (and likely final) senior project as an undergraduate student at Chulalongkorn University. This project focuses on development of a voice-based chatbot application. You can visit [this repository](https://github.com/barnabyashford/thai-voice-bot) for more detail!
+I'm currently working on my second (and hopefully final) senior project as an undergraduate student at Chulalongkorn University. This project focuses on development of a voice-based chatbot application. You can visit [this repository](https://github.com/barnabyashford/thai-voice-bot) for more detail!
 
 ## 👯 Collaboration
 I'm always open to collaborating on interesting projects! While I don't currently have any open collaboration opportunities on my own projects, I'm excited to contribute to others' initiatives.
@@ -18,7 +18,7 @@ I'm always open to collaborating on interesting projects! While I don't currentl
 If you have a project where my NLP/ML skills could be helpful, don't hesitate to reach out!
 
 ## 🌱 Learning & Growth
-Currently expanding my knowledge in Thai-centric NLP.
+Currently expanding my knowledge in Thai-centric NLP. That is, the focus is not solely on LLM uses with Thai NLP tasks, but some other practices as well.
 
 ## 📫 How to Reach Me
 - **Email**: zhangterfuu@outlook.com
