@@ -23,7 +23,7 @@ Currently expanding my knowledge in Thai-centric NLP. That is, the focus is not 
 ## 📫 How to Reach Me
 - **Email**: zhangterfuu@outlook.com
 - **University Email**: 6440226022@student.chula.ac.th
-- **LinkedIn**: [(https://www.linkedin.com/in/worrapat-cheng/)](https://www.linkedin.com/in/worrapat-cheng/)
+- **LinkedIn**: [Worrapat Cheng](https://www.linkedin.com/in/worrapat-cheng/)
 - **Line**: zhangterfuu
 
 ## ⚡ Hobbies & Interests
