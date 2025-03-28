@@ -2,8 +2,10 @@
 
 Call me Worrapat, Sunny, Barney, <ruby>輝<rt>あきら</rt></ruby>, or whatever you wish. I go by many names!.
 
-## About Me
+## About Me [^1]
 I'm a student majoring <mark> ✨ $Language \  and \  Information \  Technology$ ✨ </mark> at the Faculty of Arts, Chulalongkorn University. I'm passionate about natural language processing, machine learning, and their applications.
+
+[^1]: This `README.md` file, as template was generated using Claude 3.5 Sonnet
 
 ## 🛠️ Skills & Expertise
 - **Programming Languages**: Python
