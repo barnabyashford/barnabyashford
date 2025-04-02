@@ -1,4 +1,4 @@
-# Welcome to my GitHub account! 👋
+# Welcome to my GitHub! 👋
 
 Call me Worrapat, Sunny, Barney, <ruby>輝<rt>あきら</rt></ruby>, or whatever you wish. I go by many names!.
 
